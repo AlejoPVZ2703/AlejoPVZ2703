@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on programming other projects.
 - 📫 How to reach me: alejandro.matamoro2703@gamil.com.pe
 - 😄 Pronouns: Alejo / Alejandro 
-- ⚡ Fun fact: Creation.
+- ⚡ Fun fact: Creation. I study Java but I would like to learn other programming languages.
 
 <!---
 AlejoPVZ2703/AlejoPVZ2703 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
