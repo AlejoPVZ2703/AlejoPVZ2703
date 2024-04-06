@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning basic programming.
 - 💞️ I’m looking to collaborate on programming other projects.
 - 📫 How to reach me: alejandro.matamoro2703@gamil.com.pe
-- 😄 Pronouns: Alejo.
+- 😄 Pronouns: Alejo / Alejandro 
 - ⚡ Fun fact: Creation.
 
 <!---
